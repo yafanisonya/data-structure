@@ -1,0 +1,7 @@
+#screen {
+  border: 1px solid black;
+  width: 150px;
+  text-align: center;
+  padding: 20px 0;
+  background: #eee;
+}
